@@ -1,7 +1,7 @@
 
 body {
-    color: purple;
-    background:blueviolet;
+    color: rgb(205, 226, 19);
+    background:rgb(120, 30, 204);
     margin: 0px;
 }
 
@@ -9,5 +9,16 @@ header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(212, 42, 228);
+}
+<section{
+    background-color: aqua;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: ;
 }
